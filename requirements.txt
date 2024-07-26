@@ -2,4 +2,4 @@ pip
 streamlit
 numpy
 pandas
-tensorflow==2.6.0
+tensorflow
